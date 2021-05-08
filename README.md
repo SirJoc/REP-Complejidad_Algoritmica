@@ -1,10 +1,8 @@
 # TP-Complejidad_Algoritmica
 4 ALGORITMOS:
 ## Integrantes:
--  Andree Jhaire Liñan Ramirez
-- Sebastian Eduardo Noli Peña
+- Andree Jhaire Liñan Ramirez
 - Renzo Giuliano Ñaña Canturin
-- Juan De Dios Daniel Quiroz Rodriguez
-- Joaquín Ignacio Sánchez Chávez
-- Pablo Sergio Tejada Quijandria
+- Josue Josias Olaya Chauca
+- Bruno Tiglla Arrascue
 
